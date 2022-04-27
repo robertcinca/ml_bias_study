@@ -145,5 +145,4 @@ scripts/**/output*/*.csv
 scripts/**/*.png
 scripts/**/*.jpg
 analysis/
-scripts/**/output*
 .README_DEV.md
